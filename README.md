@@ -1,37 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎬 Next.js Mini Movie Site
 
-## Getting Started
+🔗 **This repository presents a mini movie website built with Next.js. It features navigation between pages, movie listing by categories, and detailed movie selection using API integrations.**
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Movie browsing UI with category filtering  
+- Dynamic listing and selection of movies  
+- Page navigation using built-in Next.js router  
+- Responsive and user-friendly design  
+- Smooth and fast performance  
+- API integration for real-time movie data  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Technologies Used
 
-## Learn More
+- Next.js  
+- React  
+- React Icons  
+- Tailwind CSS  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📸 App Screenshot
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+![ZightRecording2025-04-26at10 40 02PM-ezgif com-optimize](https://github.com/user-attachments/assets/a98a92b7-b1c9-4dd6-ba8b-f14a229bd207)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Nextjs-Films
+## 📝 Project Purpose
+
+The purpose of this project is to build a lightweight, category-based movie browsing platform using the latest Next.js features.  
+It focuses on API consumption, dynamic page navigation, and mobile-responsive, modern web design.
+
+---
+
+## 📩 Contact
+
+For questions or feedback:
+
+📧 **fratsbht@icloud.com**
